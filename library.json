@@ -8,6 +8,12 @@
     "type": "git",
     "url": "https://github.com/NiiRoboKen/platformio-library-template.git"
   },
+  "dependencies": [
+    {
+      "name": "interface-library",
+      "version": "https://github.com/Sootta/interface-library/archive/refs/heads/main.zip"
+    }
+  ],
   "frameworks": "*",
   "platforms": "*",
   "headers": []
